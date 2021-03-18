@@ -1,5 +1,5 @@
 # postgres-docker
-Docker postgres environmentpostgres-docker
+Docker postgres environment (Postgres, pgadmin)
 
 # Prerequisites:
 
